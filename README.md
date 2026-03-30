@@ -1,0 +1,1 @@
+# swc-html-minify-bug-repro
